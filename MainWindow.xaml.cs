@@ -27,7 +27,7 @@ namespace WpfAppGIT
 
         private void btn1_Click(object sender, RoutedEventArgs e)
         {
-            lbl1.Content = "Hola mundo cruel!!";
+            lbl1.Content = "Hola mundo COVID de loss!!";
         }
     }
 }
