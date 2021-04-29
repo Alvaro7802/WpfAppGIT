@@ -24,5 +24,10 @@ namespace WpfAppGIT
         {
             InitializeComponent();
         }
+
+        private void btn1_Click(object sender, RoutedEventArgs e)
+        {
+            lbl1.Content = "Hola mundo cruel!!";
+        }
     }
 }
